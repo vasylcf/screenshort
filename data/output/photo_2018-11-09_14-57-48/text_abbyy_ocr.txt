@@ -1,0 +1,10 @@
+﻿MATCH FACTS
+FC 12 KVARTAL                           PONAL FC
+12                      Shots        13
+6                Shots on Target     11
+47                Possession %       53
+17                   Tackles         6
+3                       Fouls        4
+3                   Corners          1
+50              Shot Accuracy %      84
+83              Pass Accuracy %      91

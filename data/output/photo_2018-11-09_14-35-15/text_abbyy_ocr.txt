@@ -1,0 +1,11 @@
+﻿MATCH FACTS
+FC 12 KVARTAL                         GD9 ALL STAR
+4                     Shots                   18
+3                Shots on Target              10
+51                Possession %              49
+2                    Tackles                  9
+3                     Fouls                 0
+1             Corners                3
+75               Shot Accuracy %            55
+83               Pass Accuracy %            77
+*

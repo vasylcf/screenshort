@@ -1,0 +1,28 @@
+MATCH FACTS
+MATCH FACTS
+45:00
+D
+107 0
+adidas
+Goals
+Shots
+Shots on Target
+Possession %
+Tackles
+Fouls
+Yellow Cards
+Red Cards
+Injuries
+Offsides
+Corners
+107
+72
+56
+31%
+69%
+77%
+90%
+Shot Accuracy %
+Pass Accuracy %
+0%
+66%
