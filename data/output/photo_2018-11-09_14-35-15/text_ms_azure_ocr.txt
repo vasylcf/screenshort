@@ -1,1 +1,0 @@
-MATCH FACTS FC 12 KVARTAL 3 51 2 3 1 75 83 Shots Shots on Target Possession % Tackles Fouls Corners Shot Accuracy % Pass Accuracy % GD9 ALL STAR 18 10 49 9 3 55 77
