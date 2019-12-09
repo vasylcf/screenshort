@@ -4,6 +4,15 @@ __pycache__/
 *$py.class
 
 *.h5
+segmentation/fifa/annotation_validation__stat_segm/*.png
+segmentation/fifa/annotation_validation_2/*.png
+segmentation/fifa/annotations_train__stat_segm/*.png
+segmentation/fifa/annotations_train_2/*.png
+segmentation/fifa/images_train__stat_segm/*.png
+segmentation/fifa/images_train_2/*.png
+segmentation/fifa/validation__stat_segm/*.png
+segmentation/fifa/validation_2/*.png
+
 # C extensions
 *.so
 
